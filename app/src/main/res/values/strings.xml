@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="enter_command">Please enter a command</string>
+    <string name="no_command">No such command exists</string>
+    <string name="provide_argument">Please provide an argument"></string>
+    <string name="enter_valid_command">Please enter a valid input command</string>
+    <string name="help_text">help - display help; args:[command] \n say - say text aloud;args: text \n history - display recent commands</string>
+</resources>
